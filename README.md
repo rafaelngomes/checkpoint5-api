@@ -2,7 +2,6 @@
 
 > Projeto desenvolvido em **Java com Spring Boot**, com o objetivo de reforçar os conceitos de **API REST**, **camadas de aplicação**, **validação de dados**, **testes automatizados** e **containerização com Docker e Docker Compose**.
 
-[![Java 17](https://img.shields.io/badge/Java-17+-red)]() [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.x-brightgreen)]() [![Maven](https://img.shields.io/badge/Maven-3.9+-blue)]() [![Docker](https://img.shields.io/badge/Docker-24+-informational)]()
 
 ---
 
@@ -63,7 +62,6 @@ mvn spring-boot:run
 3. **Acessos disponíveis**
 
 * Swagger UI: [http://localhost:8080/swagger-ui.html](http://localhost:8080/swagger-ui.html)
-* Console H2 (opcional): [http://localhost:8080/h2-console](http://localhost:8080/h2-console)
 
 ---
 
@@ -154,9 +152,6 @@ SPRING_DATASOURCE_PASSWORD=postgres
   [http://localhost:8080/swagger-ui.html](http://localhost:8080/swagger-ui.html)
   ou
   [http://localhost:8080/swagger-ui/index.html](http://localhost:8080/swagger-ui/index.html)
-
-* **H2 Console:**
-  [http://localhost:8080/h2-console](http://localhost:8080/h2-console)
 
 ---
 
