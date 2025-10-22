@@ -22,7 +22,7 @@ jobs:
         id: rp
         uses: googleapis/release-please-action@v4
         with:
-         token: ${{ secrets.GH_TOKEN }}
+          token: ${{ secrets.RELEASE_PLEASE_TOKEN }}
           release-type: maven
 
   build-docs-and-attach:
