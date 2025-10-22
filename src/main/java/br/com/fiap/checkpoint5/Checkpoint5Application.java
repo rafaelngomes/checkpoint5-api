@@ -4,8 +4,8 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class Checkpoint3Application {
+public class Checkpoint5Application {
     public static void main(String[] args) {
-        SpringApplication.run(Checkpoint3Application.class, args);
+        SpringApplication.run(Checkpoint5Application.class, args);
     }
 }
