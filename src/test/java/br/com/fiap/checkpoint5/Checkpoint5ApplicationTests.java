@@ -1,10 +1,10 @@
-package br.com.fiap.checkpoint3;
+package br.com.fiap.checkpoint5;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class Checkpoint3ApplicationTests {
+class Checkpoint5ApplicationTests {
 
 	@Test
 	void contextLoads() {
